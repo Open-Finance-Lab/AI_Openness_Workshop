@@ -1,1 +1,1 @@
-# Open_AI_Workshop
+# AI Openness Workshop
