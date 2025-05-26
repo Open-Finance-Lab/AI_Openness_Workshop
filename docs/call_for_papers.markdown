@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-permalink: /call_for_papers/
+permalink: /2-call_for_papers/
 weight: 2
 ---
 
