@@ -6,9 +6,10 @@ weight: 1
 ---
 
 <div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: center; gap: 1em; padding: 2em">
-  <img style="width: 40%;" src="https://github.com/Open-Finance-Lab/AI_Openness_Workshop/blob/main/docs/assets/logos/neurips.png?raw=true" alt="Neurips Logo">
-  <img style="width: 30%;" src="https://github.com/Open-Finance-Lab/AI_Openness_Workshop/blob/main/docs/assets/logos/columbiau.jpeg?raw=true" alt="Columbia Logo">
-  <img style="width: 30%;" src="https://github.com/Open-Finance-Lab/AI_Openness_Workshop/blob/main/docs/assets/logos/Linux_Foundation_logo.png?raw=true" alt="The Fin AI Logo">
+  <img style="width: 20%;" src="https://github.com/Open-Finance-Lab/AI_Openness_Workshop/blob/main/docs/assets/logos/neurips.png?raw=true" alt="Neurips Logo">
+  <img style="width: 10%;" src="https://github.com/Open-Finance-Lab/AI_Openness_Workshop/blob/main/docs/assets/logos/columbiau.jpeg?raw=true" alt="Columbia Logo">
+  <img style="width: 20%;" src="https://github.com/Open-Finance-Lab/AI_Openness_Workshop/blob/main/docs/assets/logos/Linux_Foundation_logo.png?raw=true" alt="Linux Foundation">
+  <img style="width: 20%;" src="assets/logos/pytorch.png?raw=true" alt="Pytorch">
 </div>
 
 <p align="center" style="font-size:20px; font-weight:bold;">
