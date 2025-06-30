@@ -32,7 +32,7 @@ To address these challenges, new standards are being developed, such as the [Ope
 
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
 
-  <a href="https://www.linkedin.com/in/harveyjstein/" target="_blank" style="text-decoration:none; color:inherit;">
+  <a href="https://www.linkedin.com/in/lehors/" target="_blank" style="text-decoration:none; color:inherit;">
       <div style="width:180px;">
         <img src="assets/speakers/arnaud_le_hors.jpeg" alt="Arnaud Le Hors" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
         <h3 style="margin-top:15px;">Arnaud Le Hors</h3>
@@ -49,7 +49,7 @@ To address these challenges, new standards are being developed, such as the [Ope
       </div>
   </a>
 
-   <a href="https://www.linkedin.com/in/greglindahl/" target="_blank" style="text-decoration:none; color:inherit;">
+   <a href="https://www.linkedin.com/in/annilai/" target="_blank" style="text-decoration:none; color:inherit;">
       <div style="width:180px;">
         <img src="assets/speakers/anni_lai.jpeg" alt="nni Lai" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
         <h3 style="margin-top:15px;">Anni Lai</h3>
@@ -57,7 +57,7 @@ To address these challenges, new standards are being developed, such as the [Ope
       </div>
   </a>
 
-  <a href="https://armancohan.com/" target="_blank" style="text-decoration:none; color:inherit;">
+  <a href="https://www.cs.princeton.edu/~sayashk/" target="_blank" style="text-decoration:none; color:inherit;">
       <div style="width:180px;">
         <img src="assets/speakers/Sayash_Kapoor.png" alt="Sayash Kapoor" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
         <h3 style="margin-top:15px;">Sayash Kapoor</h3>
@@ -81,7 +81,7 @@ To address these challenges, new standards are being developed, such as the [Ope
       </div>
   </a>
 
-  <a href="https://roseyu.com/" target="_blank" style="text-decoration:none; color:inherit;">
+  <a href="https://guestrin.su.domains/" target="_blank" style="text-decoration:none; color:inherit;">
       <div style="width:180px;">
         <img src="assets/speakers/Carlos-Guestrin.jpeg" alt="Carlos Guestrin" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
         <h3 style="margin-top:15px;">Carlos Guestrin</h3>
@@ -116,7 +116,7 @@ To address these challenges, new standards are being developed, such as the [Ope
       </div>
   </a>
 
-  <a href="https://www.cs.columbia.edu/~zhouyu/" target="_blank" style="text-decoration:none; color:inherit;">
+  <a href="" target="_blank" style="text-decoration:none; color:inherit;">
     <div style="width:180px;">
       <img src="assets/organizers/keyi.jpeg" alt="Keyi Wang" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
       <h3 style="margin-top:15px;">Keyi Wang</h3>
@@ -126,7 +126,7 @@ To address these challenges, new standards are being developed, such as the [Ope
 
   
 
-  <a href="https://lidengsite.wordpress.com/" target="_blank" style="text-decoration:none; color:inherit;">
+  <a href="https://www.oii.ox.ac.uk/people/profiles/cailean-osborne/" target="_blank" style="text-decoration:none; color:inherit;">
       <div style="width:180px;">
         <img src="assets/organizers/Cailean_Osborne.jpeg" alt="Cailean Osborne" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
         <h3 style="margin-top:15px;">Cailean Osborne</h3>
@@ -134,9 +134,9 @@ To address these challenges, new standards are being developed, such as the [Ope
       </div>
   </a>
 
-  <a href="https://cyp0630.github.io/" target="_blank" style="text-decoration:none; color:inherit;">
+  <a href="" target="_blank" style="text-decoration:none; color:inherit;">
       <div style="width:180px;">
-        <img src="assets/organizers/sachin.jpeg" alt="Sachin Mathew Varghese" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <img src="assets/organizers/Sachin.jpeg" alt="Sachin Mathew Varghese" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
         <h3 style="margin-top:15px;">Sachin Mathew Varghese</h3>
         <p style="color:#777;">Linux Foundation Generative AI Commons</p>
       </div>
