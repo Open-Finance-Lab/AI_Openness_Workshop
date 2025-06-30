@@ -26,12 +26,21 @@ The reviewing process is double-blind, using OpenReview. All submissions will be
 
 # Relevant Topics
 This workshop aims to promote discussions and collaborations among researchers, practitioners, and policymakers on openness in AI. Researchers are encouraged to explore the technical, ethical, and legal dimensions of openness in AI and associated challgnges. Topics include, but not limited to: 
-* Understanding the Model Openness Framework
-* Open science, open source, open data, open model, open tooling
-* Demystifying AI black boxes
-* Ethical considerations in AI openness
-* Definition of open source AI
+* Open source, open data, open model, open tooling
+* Evaluations of open models
+* IP ownership and licensing
+* Model Openness Framework
+* Safety & Security
+* Privacy in open-source implementations
 * Interpretability and explainability of AI models 
-* Combating "openwashing" practices and behaviors 
-* Open licenses
+* Reproducibility and transparency
+* Model watermarking
+* Ethics of open source AI
+* Prompting open models in various domains, including but not limited to: 
+    * Open source AI for science discovery
+    * Operations research and industrial engineering
+    * Open source AI for education
+    * Open source AI for medical and healthcare
+    * Financial services industry and applications
+
 

@@ -25,6 +25,132 @@ Although more and more models are being made publicly available, many of these m
 
 To address these challenges, new standards are being developed, such as the [Open Source AI Definition 1.0](https://opensource.org/ai/open-source-ai-definition) [4]; tools for auditing model explainability, fairness, and robustness [5]; and frameworks to evaluate model openness, such as the AAAI Reproducibility Checklist [6] and the NeurIPS 2019 ML Reproducibility Checklist [7]. The [Model Openness Framework (MOF)](https://lfaidata.foundation/blog/2024/04/17/introducing-the-model-openness-framework-promoting-completeness-and-openness-for-reproducibility-transparency-and-usability-in-ai/) [8], developed by the Linux Foundation, is designed to evaluate the completeness and openness of ML models across the model development. However, there is not yet a formally agreed-upon definition of “open source AI,” highlighting the need for broader interdisciplinary discussion. This workshop aims to promote discussions and collaborations among researchers, practitioners, and policymakers on openness in AI. 
 
+
+
+<div style="text-align:center; margin-bottom:40px;">
+  <h2 style="margin-bottom:30px;">Confirmed Invited Speakers and Pannelists</h2>
+
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
+
+  <a href="https://www.linkedin.com/in/harveyjstein/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/arnaud_le_hors.jpeg" alt="Arnaud Le Hors" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Arnaud Le Hors</h3>
+        <p style="color:#777;">IBM</p>
+      </div>
+  </a>
+
+
+  <a href="https://www.linkedin.com/in/greglindahl/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/greg-lindahl.png" alt="Greg Lindahl" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Greg Lindahl</h3>
+        <p style="color:#777;">Common Crawl</p>
+      </div>
+  </a>
+
+   <a href="https://www.linkedin.com/in/greglindahl/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/anni_lai.jpeg" alt="nni Lai" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Anni Lai</h3>
+        <p style="color:#777;">Futurewei Technologies</p>
+      </div>
+  </a>
+
+  <a href="https://armancohan.com/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/Sayash_Kapoor.png" alt="Sayash Kapoor" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Sayash Kapoor</h3>
+        <p style="color:#777;">Princeton University</p>
+      </div>
+  </a>
+
+  <a href="https://profiles.ucl.ac.uk/56579-hao-ni" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/hao-ni.png" alt="Hao Ni" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Hao Ni</h3>
+        <p style="color:#777;">UCL</p>
+      </div>
+  </a>
+
+  <a href="https://armancohan.com/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/arman-cohan.png" alt="Arman Cohan" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Arman Cohan</h3>
+        <p style="color:#777;">Yale University</p>
+      </div>
+  </a>
+
+  <a href="https://roseyu.com/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/Carlos-Guestrin.jpeg" alt="Carlos Guestrin" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Carlos Guestrin</h3>
+        <p style="color:#777;">Stanford University</p>
+      </div>
+  </a>
+
+  </div>
+
+</div>
+
+
+
+<div style="text-align:center; margin-bottom:40px;">
+  <h2 style="margin-bottom:30px;">Workshop Organizers</h2>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
+
+  <a href="https://scholar.google.com/citations?user=C83b8ncAAAAJ&hl=en" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/organizers/supervisors/liu-xy.png" alt="Xiao-Yang Liu" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Xiao-Yang Liu</h3>
+        <p style="color:#777;">Columbia University</p>
+      </div>
+  </a>
+
+  <a href="https://www.matt-white.com/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/speakers/matt-white.png" alt="Matt White" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Matt White</h3>
+        <p style="color:#777;">Linux Foundation & PyTorch Foundation</p>
+      </div>
+  </a>
+
+  <a href="https://www.cs.columbia.edu/~zhouyu/" target="_blank" style="text-decoration:none; color:inherit;">
+    <div style="width:180px;">
+      <img src="assets/organizers/keyi.jpeg" alt="Keyi Wang" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+      <h3 style="margin-top:15px;">Keyi Wang</h3>
+      <p style="color:#777;">Columbia University</p>
+    </div>
+  </a>
+
+  
+
+  <a href="https://lidengsite.wordpress.com/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/organizers/Cailean_Osborne.jpeg" alt="Cailean Osborne" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Cailean Osborne</h3>
+        <p style="color:#777;">Oxford University</p>
+      </div>
+  </a>
+
+  <a href="https://cyp0630.github.io/" target="_blank" style="text-decoration:none; color:inherit;">
+      <div style="width:180px;">
+        <img src="assets/organizers/sachin.jpeg" alt="Sachin Mathew Varghese" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+        <h3 style="margin-top:15px;">Sachin Mathew Varghese</h3>
+        <p style="color:#777;">Linux Foundation Generative AI Commons</p>
+      </div>
+  </a>
+
+
+  </div>
+</div>
+
+
+
+
+
+
 <p style="font-size: 10px;">
 [1]  R. Bommasani, D. A. Hudson, E. Adeli, R. Altman, S. Arora, S. von Arx, M. S. Bernstein, J. Bohg, A. Bosselut, E. Brunskill, et al., “On the opportunities and risks of foundation models,” arXiv:2108.07258, 2021.
 </p>
